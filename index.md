@@ -6,3 +6,8 @@
 ```
 $ git init
 Initialized empty Git repository in /Users/james/Projects/DiceyLab/.git/
+
+
+- [x] Make program Hello, Squirrel
+- [ ] Complete step 2
+- [ ] git push to repo
